@@ -1,1 +1,1 @@
-The write-up: [link](writeup.pdf)
+The writeup: [link](writeup.pdf)
